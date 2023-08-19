@@ -1,2 +1,8 @@
 Heloo guys.
+<<<<<<< HEAD
+
+i joined naga repository
+just now...
+=======
 How are you guys doing ?
+>>>>>>> 920c51fa7bd40ebbdf510c99001519a999d79b0a
